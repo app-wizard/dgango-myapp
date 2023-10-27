@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-!1jdz3##^bopm2u&t%nuhj6nq6y(1ev=(l2=hb%-)-lmdcvcl5
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8007-app-wizard-dgango-myapp-tk5i9bk846.us2.codeanyapp.com']
+ALLOWED_HOSTS = ['8000-app-wizard-dgango-myapp-tk5i9bk846.us2.codeanyapp.com']
 
 
 # Application definition
